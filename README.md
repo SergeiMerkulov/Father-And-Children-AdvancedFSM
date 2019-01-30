@@ -12,7 +12,7 @@ These diagrams below show all states and transitions.
 ![alt text](FSM%20State%20Diagrams/AI01%20Children.jpg)
 
 
-![alt text](FSM%20State%20Diagrams/AI01%Boss(Father).jpg)
+![alt text](FSM%20State%20Diagrams/AI02%Boss(Father).jpg)
 
 
 
